@@ -1,0 +1,16 @@
+{
+  "name": "prisma-graphql-test",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/ong-ar/prisma-graphql-test.git",
+  "author": "ong-ar <reclusis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4",
+    "prisma-client-lib": "^1.28.1"
+  },
+  "devDependencies": {
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  }
+}
